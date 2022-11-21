@@ -1,5 +1,5 @@
 
-## Natrix - Developer ✨
+## HAXOR~SIAM - Developer ✨
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
@@ -32,11 +32,11 @@
  
  > ### 🎈 Socials 
  
- | 🦄 [Discord]Soon (Account Banned) | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix) | 🐦 [Twitter](https://twitter.com/natrix_dev) |
+ | 🦄 [Discord]Soon (Account Banned) | 🐻 [Rkns]() | 🐴 [Rekonise](https://rekonise.me/) | 🐦 [Twitter](https://twitter.com/) |
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
- > Made by natrix dev - README.md v.2.3
+ > Made by HAXOR~SIAM dev - README.md v.2.3
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
