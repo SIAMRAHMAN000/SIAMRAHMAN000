@@ -23,7 +23,7 @@
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 21/11/2022
+ [+] Last update: 18/2/2023
  [+] author: SIAM RAHMAN
  [+] owner: HAXOR SIAM
  ```
