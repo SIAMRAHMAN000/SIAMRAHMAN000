@@ -1,4 +1,4 @@
-new discord server: https://discord.gg/onlp
+
 <!-- Hi skid <3 -->
 <h2 align="center">Instagram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> => <a href="https://www.instagram.com/SKILLSIAM/">SKILLSIAM</a></h2>
 
@@ -6,10 +6,6 @@ new discord server: https://discord.gg/onlp
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
 </p> -->
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
-</p>
 
 
 <h2 align="center">Skills </h2>
