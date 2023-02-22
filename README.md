@@ -1,6 +1,6 @@
 new discord server: https://discord.gg/onlp
 <!-- Hi skid <3 -->
-<h2 align="center">INSTAGRAM <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> : <a href="https://www.instagram.com/SKILLSIAM/">SKILLSIAM</a></h2>
+<h2 align="center">Instagram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> => <a href="https://www.instagram.com/SKILLSIAM/">SKILLSIAM</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
